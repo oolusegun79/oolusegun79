@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oolusegun79
-- 👀 I’m interested in SQL Server related projects
-- 🌱 I’m currently learning GitHub
+- 👀 I’m interested in Database and Data Engineering related projects
+- 🌱 I’m currently a Senior Data Engineer
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me oolusegun79@gmail.com
 
