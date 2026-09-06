@@ -64,12 +64,11 @@ Long background in database administration — query tuning, indexing strategy, 
 
 Interested in talking to anyone working on data reliability, pipeline observability, or diagnosis tooling — and always happy to mentor engineers moving from database administration into data engineering.
 
-📫 [oolusegun79@gmail.com](mailto:oolusegun79@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/) <!-- replace with your profile URL -->
+📫 [oolusegun79@gmail.com](mailto:oolusegun79@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/olusegun-oluyemi-1bb02720/)
 
 <!--
 Task 7 from docs/Month-1-September-2026.md
 TODO before this is finished:
-  - Replace the LinkedIn placeholder with your actual profile URL
   - Add the toolkit repo link once it's public (Week 3)
   - Add the article link once published (Week 4)
   - Add your ADPList profile link once registered (Week 3)
